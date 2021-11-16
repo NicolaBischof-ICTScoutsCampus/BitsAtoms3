@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  background-color: black;
+}
+
+.tooltip {
+  position: absolute;
+  z-index: 10;
+  background-color: white;
+  padding: 3px;
+}
+
+svg rect:hover {
+  cursor: pointer;
+}
+
