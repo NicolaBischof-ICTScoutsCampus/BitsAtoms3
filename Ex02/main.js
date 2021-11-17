@@ -29,8 +29,8 @@ async function init() {
     };
   });
 
-  const chartWidth = 6000;
-  const chartHeight = 1080;
+  const chartWidth = 7000;
+  const chartHeight = 3500;
 
   const local = d3.local();
 
